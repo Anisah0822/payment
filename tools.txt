@@ -1,0 +1,6 @@
+SDLC
+Linux
+Scripting
+GIT
+AWS
+EC2 is vitural servers
