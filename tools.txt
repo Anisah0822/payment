@@ -4,3 +4,6 @@ Scripting
 GIT
 AWS
 EC2 is vitural servers
+
+
+today is new info
